@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "node generate-users.js",
+    "generate:dataset": "node --max-old-space-size=4096 generate-dataset.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

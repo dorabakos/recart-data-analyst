@@ -1,0 +1,5 @@
+# Node
+node_modules/
+
+# Generated datasets (large, produced locally)
+data/*.csv

@@ -1,0 +1,25 @@
+{
+  "name": "recart-data-analyst",
+  "version": "1.0.0",
+  "description": "home assignment",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node generate-users.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorabakos/recart-data-analyst.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dorabakos/recart-data-analyst/issues"
+  },
+  "homepage": "https://github.com/dorabakos/recart-data-analyst#readme",
+  "dependencies": {
+    "@faker-js/faker": "^10.5.0"
+  }
+}
